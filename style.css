@@ -21,6 +21,9 @@ body {
   text-transform: uppercase;
 
 }
+img {
+  border-radius: 50%;
+}
 
 .semi-bold {
   font-weight: 500;
